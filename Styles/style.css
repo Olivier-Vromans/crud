@@ -1,0 +1,36 @@
+
+.d-flex button{
+    text-align: center;
+    margin: 1.5em 0.6em;
+    padding: 0.5em 2.4em;
+}
+.d-flex table{
+    margin: 1em 10em;
+}
+table .btnedit{
+    color: #294d56;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: none;
+}
+table .btndelete{
+    color: #ff0000;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: none;
+}
+table{
+border: 1px solid black;
+margin-left: auto;
+margin-right:auto;
+}
+.succes{
+    background-color: lightgreen;
+    padding: 1em;
+}
+.error{
+    background-color: tomato;
+    padding: 1em;
+}
